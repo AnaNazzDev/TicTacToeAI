@@ -1,0 +1,15 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A simple TicTacToe project, first approach with web applications and the minimix system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnaNazz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
