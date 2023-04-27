@@ -24,7 +24,7 @@ I know it's not the most optimized or best coded script. I wanted to practice wi
 5. Enjoy yeahhhh 
 
 ## Preview
-![alt preview]([http://url/to/img.png](https://media.discordapp.net/attachments/663790976862781441/1100926000071725076/image.png?width=360&height=422))
+![web app preview](https://media.discordapp.net/attachments/663790976862781441/1100926000071725076/image.png)
 
 ## Contributing
 
