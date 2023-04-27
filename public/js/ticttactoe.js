@@ -58,7 +58,6 @@ function displayBoard(index) {
 
 // Make a move for the computer player
 function computerPlay() {
-    console.log(selectedForce)
     if (isComputerTurn == false) {
         return;
     }
@@ -136,7 +135,6 @@ function resetGame() {
 // Add event listeners to the board and reset button
 cells.forEach((cell, index) => {
     cell.addEventListener("click", () => playerPlay(index));
-    console.log("cell", cell)
 });
 
 
